@@ -1,0 +1,102 @@
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.exe.config
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.exe
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.pdb
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.AssemblyReference.cache
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Admin_Doashoard.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Properties.Resources.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.GenerateResource.cache
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.exe
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.pdb
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.exe.config
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Customer_Management.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Employee_Management.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Inventory_Management.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Order_Management.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Product_Management.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Statistics_Report_Screen.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.UserSession.resources
+C:\Users\BICH NGOC\source\repos\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.MainForm.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.exe.config
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.exe
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.pdb
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.AssemblyReference.cache
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Admin_Doashoard.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Customer_Management.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Employee_Management.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.UserSession.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Inventory_Management.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.MainForm.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Order_Management.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Product_Management.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Properties.Resources.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Statistics_Report_Screen.resources
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.GenerateResource.cache
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.exe
+D:\Visual Studio Project\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.pdb
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.exe.config
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.exe
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.pdb
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\EPPlus.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\itextsharp.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Buffers.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Memory.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\EPPlus.xml
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\itextsharp.xml
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Buffers.xml
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Memory.xml
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.AssemblyReference.cache
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Customer_Management.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Employee_Management.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Login.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Inventory_Management.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.MainForm.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Order_Management.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Product_Management.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Properties.Resources.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Statistics_Report_Screen.resources
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.GenerateResource.cache
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.CoreCompileInputs.cache
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DAT.3BCF0C3F.Up2Date
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.exe
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.pdb
+C:\Users\BICH NGOC\Downloads\ASM1_DATABASE\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.exe.config
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.exe.config
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.exe
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\ASM1_DATABASE.pdb
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\EPPlus.xml
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\itextsharp.xml
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\System.Buffers.xml
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\System.Memory.xml
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\System.Numerics.Vectors.xml
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\GIT\Database\ASM1_DATABASE\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.AssemblyReference.cache
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.exe.config
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Customer_Management.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Employee_Management.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Login.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Inventory_Management.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.MainForm.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Order_Management.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Product_Management.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Properties.Resources.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.Statistics_Report_Screen.resources
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.GenerateResource.cache
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.csproj.CoreCompileInputs.cache
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DAT.3BCF0C3F.Up2Date
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.exe
+E:\GIT\Database\ASM1_DATABASE\obj\Debug\ASM1_DATABASE.pdb
